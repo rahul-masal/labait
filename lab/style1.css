@@ -1,0 +1,23 @@
+.backgrd{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+  
+
+.table{
+    overflow: hidden;
+    border-collapse: collapse;
+    position: relative;
+}
+
+.table td{
+    padding: 5px;
+    border: 1px solid #000;
+    
+}
